@@ -1,0 +1,11 @@
+{
+  "compatibility_version": 2,
+  "display_name": "Bugfixes",
+  "display_version": "1.0.0",
+  "short_description": "Bugfixes for vanilla",
+  "long_description": "Bugfixes for vanilla 1.45 (Eivonn's fine) , 2025-10-06+",
+  "logos": {
+    "large_logo": "picture.png",
+    "small_logo": "picture.png"
+  }
+}
