@@ -1,0 +1,1 @@
+wontfix - delegated to separate mod for autocasts

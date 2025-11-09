@@ -1,0 +1,6 @@
+# 7 halcyon shield blessing autocast overlaps
+wontfix - delegated to separate mod for autocasts
+
+entities:
+- advent_colony_capital_ship_shield_regeneration.ability (shield_regeneration_auto_cast_override_target_filter)
+- advent_colony_capital_ship_shield_regeneration.action_data_source (shield_regeneration_auto_cast_override_target_filter)
