@@ -1,4 +1,4 @@
-Fixes several old bugs in game files.
+Fixes several bugs in game files.
 
 Modifies simulation - all players in multiplayer must have this mod.
 
