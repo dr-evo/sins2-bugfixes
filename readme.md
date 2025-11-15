@@ -4,6 +4,9 @@ Modifies simulation - all players in multiplayer must have this mod.
 
 Built for patch 1.45 (Eivonn's fine) , 2025-10-06+
 
+NOTE: all below bugs have been fixed in 1.49.6 (diplomatic repercussions), they will be removed from the mod after it goes live.
+If there are no fixes left, mod will be archived (might be brought back if I find more fixable issues).
+
 # Fixes
 - advent
   - radiance battleship / animosity : is now correctly reducing damage taken per psi power instead of increasing it
